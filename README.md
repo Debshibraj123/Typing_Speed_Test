@@ -24,27 +24,9 @@ npm install
 yarn install
 ```
 
-### v2.1.0 Changelog 11/15/2022
-
-- Updated: dependencies
-- Added: github icons
-- Added: `CPM` state
-- Modified: Refactor style
-- Fixed: Minor bugs
-
-### v2 Changelog 09/17/2021
-
-- Updated: dependencies
-- Added: light/Dark mode
-- Added: eslint airbnb style
-- Modified: Refactor state to useReducer
-- Fixed: Minor bugs
-
-- none
 
 ### [Live Example](https://react-one-minute-speed-typing-test-ts.vercel.app)
 
 <br />
 
-[![Edit react-one-minute-speed-typing-test-ts](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-one-minute-speed-typing-test-ts-q82ux?fontsize=14&hidenavigation=1&theme=dark)
 

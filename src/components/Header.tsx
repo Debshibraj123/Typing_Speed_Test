@@ -1,5 +1,5 @@
 import React, { memo } from "react";
-import { DarkIcon, GithubIcon, LeaderBoardIcon, LightIcon } from "./Icons";
+import { DarkIcon, GithubIcon, LightIcon } from "./Icons";
 
 interface Props {
   handleThemeMode: () => void;
@@ -34,7 +34,7 @@ function Header({ handleThemeMode, theme }: Props) {
           <li className='nav-item col-md-auto me-3'>
             <a
               className='nav-link p-2'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts'
+              href='https://github.com/Debshibraj123/Typing_Speed_Test.git'
               target='_blank'
               rel='noopener noreferrer'
               aria-label='github'

@@ -26,7 +26,7 @@ function Footer({ theme }: Props) {
               data-icon='octicon-star'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
               data-show-count='true'
-              aria-label='Star awran5/react-one-minute-speed-typing-test-ts on GitHub'
+              
             >
               Star
             </a>
@@ -35,11 +35,10 @@ function Footer({ theme }: Props) {
           <li className='nav-item pe-1'>
             <a
               className='github-button'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts/fork'
+              href='https://github.com/Debshibraj123/Typing_Speed_Test.git'
               data-icon='octicon-repo-forked'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
               data-show-count='true'
-              aria-label='Fork awran5/react-one-minute-speed-typing-test-ts on GitHub'
             >
               Fork
             </a>
@@ -47,9 +46,9 @@ function Footer({ theme }: Props) {
           <li className='nav-item'>
             <a
               className='github-button'
-              href='https://github.com/awran5'
+              href='https://github.com/Debshibraj123/Typing_Speed_Test.git'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
-              aria-label='Follow @awran5 on GitHub'
+              aria-label='Follow @Debshibraj123 on GitHub'
             >
               Follow
             </a>
