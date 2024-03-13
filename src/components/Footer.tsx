@@ -22,7 +22,7 @@ function Footer({ theme }: Props) {
           <li className='nav-item pe-1'>
             <a
               className='github-button'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts'
+              href='https://github.com/Debshibraj123/Typing_Speed_Test'
               data-icon='octicon-star'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
               data-show-count='true'
