@@ -6,14 +6,6 @@
   <img src="./screenshot.gif" alt="screenshot" />
 </p>
 
-### Instructions
-
-- Download or clone the repo:
-
-```bash
-# git clone https://github.com/awran5/react-one-minute-speed-typing-test-ts.git
-```
-
 - Install
 
 ```bash
